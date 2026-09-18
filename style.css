@@ -1,0 +1,50 @@
+  
+ table,th,td{
+  border: 1px solid black;
+  /* shorthead forborder attriutes */
+  border-collapse: collapse;
+  /* for displaying border in a single line  */
+}
+
+th,td{
+  padding-left: 15px;
+  padding-top: 8px;
+  padding-right: 100px;
+  padding-bottom: 8px;
+  text-align: center;
+}
+
+
+h2{
+text-align: center;
+color: blue;
+}
+
+h4{
+color: magenta;
+}
+
+p{
+color: green;
+}
+/* 
+table{
+text-align: left;
+} */
+
+td{
+text-align: left;
+text-align: justify;
+height: 10px;
+width: 350px;
+color: maroon;
+}
+
+th{
+
+text-align: left;
+text-align: justify;
+height: 10px;
+width: 200px;
+
+}
