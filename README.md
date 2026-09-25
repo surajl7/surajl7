@@ -22,12 +22,12 @@ I care about clean code, good design, and learning something new every day.
 
 <br/>
 
-[![LinkedIn][b-linkedin]](https://linkedin.com/in/surajlandage)
-[![Website][b-website]](https://surajlandage.com)
-[![Resume][b-resume]](docs/Suraj%20Anandrao%20Landage%20Resume.pdf)
-[![YouTube][b-youtube]](https://youtube.com/surajlandage)
+[![LinkedIn][b-linkedin]](https://linkedin.com/in/surajl7)
+[![Website][b-website]](https://surajl7.com)
+[![Resume][b-resume]](docs/resume_suraj.pdf)
+[![YouTube][b-youtube]](https://youtube.com/@surajal7)
 [![Instagram][b-instagram]](https://instagram.com/suraj.svg)
-[![Email][b-email]](mailto:slandage@hcg.com)
+[![Email][b-email]](mailto:suraj7connect@gmail.com)
 
 <br/>
 
