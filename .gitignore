@@ -1,0 +1,5 @@
+# GitHub Actions / local tooling
+.github/
+
+# Local photo (not displayed in README)
+images/

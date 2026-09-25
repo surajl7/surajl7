@@ -1,266 +1,133 @@
-<!-- ================================================================================== -->
-<!-- ! Name -->
-### Hi there, I'm Suraj
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0969DA&height=140&section=header&text=Suraj%20A%20L&fontSize=40&fontColor=ffffff&fontAlignY=70&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descSize=16&descAlignY=88&descColor=d0e8ff" width="100%" alt="Suraj A L" />
+</div>
 
-<!-- ================================================================================== -->
-<!-- ! Picture -->
-<!-- ToDo Picture should be on right side -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Suraj+%F0%9F%91%8B;Software+Engineer+%7C+Full+Stack+Developer;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Suraj A L" />
+</div>
 
-<img align="right" src="https://raw.githubusercontent.com/surajlandage/surajlandage/master/icons/pic.png"  width="300">
+<br/>
 
-<!--[<img align="left" alt="Suraj_Landage | LinkedIn" width="22px" src="[https://image.flaticon.com/icons/png/128/174/174857.png](https://www.flaticon.com/free-icon/linkedin_174857)" />][linkedin]-->
-<!-- [<img align="left" alt="Suraj_Landage | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/128/174/174857.png" />][linkedin] -->
-<!-- [<img align="left" alt="Suraj_Landage | Instagram" width="22px" src="https://image.flaticon.com/icons/png/128/2111/2111463.png"/>][instagram]-->
-<!-- [<img align="left" alt="salandage.com" width="22px" src="https://image.flaticon.com/icons/png/128/2590/2590242.png" />][website]-->
-<!-- [<img align="left" alt="Suraj_Landage | YouTube" width="22px" src="https://image.flaticon.com/icons/png/128/1384/1384060.png" />][youtube]-->
-<!-- [<img align="left" alt="Suraj_Landage | Twitter" width="22px" src="https://image.flaticon.com/icons/png/128/733/733579.png" />][twitter] -->
+---
 
-<br>
-<br>
-<!-- ================================================================================== -->
-<!-- ! Information in points and Paragraphs -->
+### `whoami`
 
-- ✍ You can find my projects here
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on open source
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... Anything
-- ⚡ Fun fact: ...
+Engineer based in **India** who loves building things — from web apps to embedded systems.
+I care about clean code, good design, and learning something new every day.
 
-<br>
-<br>
-<!-- ================================================================================== -->
-<!-- ! Languages and Tools -->
+- 🔭 &nbsp;Currently building something cool
+- 🌱 &nbsp;Always learning, always shipping
+- 🤝 &nbsp;Open to open source collaboration
+- 💬 &nbsp;Ask me about anything — happy to help!
 
-<h2 align='center'><i>Languages and Tools</i></h2>
+<br/>
 
-<div align='center'>
-<table width="100">
+[![LinkedIn][b-linkedin]](https://linkedin.com/in/surajlandage)
+[![Website][b-website]](https://surajlandage.com)
+[![Resume][b-resume]](docs/Suraj%20Anandrao%20Landage%20Resume.pdf)
+[![YouTube][b-youtube]](https://youtube.com/surajlandage)
+[![Instagram][b-instagram]](https://instagram.com/suraj.svg)
+[![Email][b-email]](mailto:slandage@hcg.com)
+
+<br/>
+
+---
+
+### Tech Stack
+
+<table>
 <tr>
-    <td colspan="7">
-        Programming languages 
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img alt="Python" src="https://img.icons8.com/color/2x/python.png" width="60">
-    </td> 
-    <td align='center'>
-        <img alt="JAVA" src="https://image.flaticon.com/icons/png/128/226/226777.png" width="60">
-    </td>
-    <td align='center'>
-        <img alt="C" src="https://img.icons8.com/color/2x/c-programming.png" width="60">
-    </td>
-    <td align='center'>
-        <img alt="C++" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" width="60">
-    </td>
-     <td align='center'>
-        <img alt="" src="">
-    </td>
-    <td align='center'>
-        <img alt="" src="">
-    </td>
-    <td align='center'>
-        <img alt="" src="">
-    </td>
-</tr>
-<tr>
-    <td colspan="7">
-       Web development
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img alt="HTML5" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" width='60'>
-    </td>
-    <td align='center'>
-        <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
-    </td>
-     <td align='center'>
-        <img alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="60">
-    </td>
-    <td align='center'>
-        <img alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="60">
-    </td>
-    <td align='center'>
-        <img alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="60">
-    </td>
-    <td align='center'>
-        <img alt="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg">
-    </td>
-    <td align='center'>
-        <img alt="" src="">
-    </td>
-</tr>
-<tr>
-    <td colspan="7">
-        Database management
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"width="60">
-    </td>
-    <td align='center'>
-        <img alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"width="60">
-    </td>
-    <td align='center'>
-        <img alt="" src="">
-    </td>
-    <td align='center'>
-        <img alt="" src="">
-    </td>
-    <td align='center'>
-        <img alt="" src="">
-    </td>
-    <td align='center'>
-        <img alt="" src="">
-    </td>
-    <td align='center'>
-        <img alt="" src="">
-    </td>
-</tr>
-<tr>
-    <td colspan="7">
-        Version control systems 
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"width="60">
-    </td>
-    <td align='center'>
-        <img alt="GitHub" src="https://image.flaticon.com/icons/png/128/919/919847.png"width="60">
-    </td>
-    <td align='center'>
-        <img alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"width="60">
-    </td>
-    <td align='center'>
-        <img alt="" src="">
-    </td>
-    <td align='center'>
-        <img alt="" src="">
-    </td>
-    <td align='center'>
-        <img alt="" src="">
-    </td>
-    <td align='center'>
-        <img alt="" src="">
-    </td>
-</tr>
-<tr>
-    <td colspan="7">
-        Tools and IDE
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img alt="Visual Studio Code" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width='60'>
-    </td>
-    <td align='center'>
-        <img alt="Jupyter Notebook" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width='60'>
-    </td>
-    <td align='center'>
-        <img alt="Eclipse" src="https://img.icons8.com/officel/2x/java-eclipse.png" width='60'>
-    </td>
-    <!-- <td align='center'>
-        <img alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-    </td> -->
-    <td align='center'>
-        <img alt="Atom" src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg">
-    </td>
-    <td align='center'>
-        <img alt="Visual Studio" src="https://img.icons8.com/color/2x/visual-studio-2019.png" width='60'>
-    </td>
-    <td align='center'>
-        <img alt="Visual Studio" src="https://img.icons8.com/color/2x/android-studio--v2.png" width='60'>
-    </td>
-    <td align='center'>
-        <img alt="Unity" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg">
-    </td>
-</tr>
-<tr>
-    <td colspan="7">
-        Electronics Software tools
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img alt="MATLAB" src="https://img.icons8.com/fluency/2x/matlab.png" width='60'>
-    </td>
-    <td align='center'>
-        <img alt="Arduino" src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" width='60'>
-    </td>
-    <td align='center'>
-        <img alt="OrCad" src="https://logodix.com/logo/2139060.gif" width='60'>
-    </td>
-    <td align='center'>
-        <img alt="ARM Keil" src="https://www.marutsu.co.jp/contents/shop/marutsu/dgimg/goods/Photos/KeilPhotos/MFG_KEIL.jpg" width='60'>
-    </td>
-    <td align='center'>
-        <img alt="KiCad" src="https://external-preview.redd.it/HhJMRV5PphbPTbIdlC1-HCoaxZWXUtJEe6RI1YGmK7U.jpg?auto=webp&s=0cb05e91805cb01e2e9f2cb039b60e34491f072a" width='60'>
-    </td>
-    <td align='center'>
-        <img alt="Xilinx" src="https://www.eletimes.com/wp-content/uploads/2018/03/Logo_-coverimage-blog.jpg" width='90'>
-    </td>
-    <td align='center'>
-        <img alt="Proteus" src="https://www.logolynx.com/images/logolynx/21/211bd199195a8384b2e88f576db72e92.jpeg" width='60'>
-    </td>
+<td valign="top">
+
+**Languages**  
+![Python][b-python] ![Java][b-java] ![C][b-c] ![C++][b-cpp]
+
+**Web**  
+![HTML5][b-html] ![CSS3][b-css] ![JavaScript][b-js]  
+![React][b-react] ![Node.js][b-nodejs] ![Figma][b-figma]
+
+</td>
+<td valign="top">
+
+**Database & Version Control**  
+![MySQL][b-mysql] ![Git][b-git] ![GitHub][b-github]
+
+**IDEs & Tools**  
+![VS Code][b-vscode] ![Jupyter][b-jupyter]  
+![Android Studio][b-android-studio] ![Unity][b-unity]
+
+**Electronics**  
+![MATLAB][b-matlab] ![Arduino][b-arduino]
+
+</td>
 </tr>
 </table>
+
+<br/>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=surajl7&theme=github" height="160" alt="Stats" />
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=surajl7&theme=github" height="160" alt="Languages by Repo" />
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=surajl7&theme=github" height="160" alt="Languages by Commit" />
+
 </div>
 
-<!-- ================================================================================== -->
-<!-- ! Projects -->
-
-
-<!-- ================================================================================== -->
-<!-- ! Achivements -->
-
-
-<!-- ================================================================================== -->
-<!-- ! GitHub Activitys -->
-
-
-<br>
-<!-- ================================================================================== -->
-<!-- ! GitHub Stats -->
-
-<!-- <h3 align='center'><i>------------------- GitHub stats -------------------</i></h3> -->
-<h2 align='center'><i>GitHub stats</i></h2>
-
-
-<div align='center'>
-<img alt="Suraj's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=surajl7&show_icons=true&hide_border=true&theme=radical" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surajl7&theme=github" width="100%" alt="Profile Details" />
 </div>
 
-<br>
-<!-- ================================================================================== -->
-<!-- ! Most Used Languages -->
-<!-- <h3 align='center'><i>------------------- Most Used Languages -------------------</i></h3> -->
-<h2 align='center'><i>Most Used Languages</i></h2>
-
-<div align='center'>
-<img alt="Suraj's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajl7&show_icons=true&hide_border=true&theme=radical"/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=surajl7&theme=default&hide_border=true&ring=0969DA&fire=0969DA&currStreakLabel=0969DA" height="160" alt="GitHub Streak" />
 </div>
 
-<br>
-<br>
-<!-- ================================================================================== -->
-<!-- ! Connect with me icons -->
-<!-- ToDo add Profile View Block -->
+<br/>
 
-![](https://komarev.com/ghpvc/?username=surajlandage&label=Profile+viwes)   <img alt="GitHub followers" src="https://img.shields.io/github/followers/surajl7?style=social"/>
+---
 
- 
+<div align="center">
 
-<!-- ================================================================================== -->
-<!-- ! QR Code (Portfolio or Personal-website) -->
-<!-- ToDo put QR code in png format and align it on right side -->
+![Profile Views](https://komarev.com/ghpvc/?username=surajl7&label=Profile+Views&color=0969DA&style=flat-square)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/surajl7?style=flat-square&color=0969DA&label=Followers)
 
-[website]: https://surajlandage.com
-<!-- [twitter]: https://twitter.com/salandage -->
-[youtube]: https://youtube.com/surajlandage
-[instagram]: https://instagram.com/suraj.svg
-[linkedin]: https://linkedin.com/in/surajlandage
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0969DA&height=80&section=footer" width="100%" alt="footer" />
+</div>
+
+[b-linkedin]:  https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white
+[b-website]:   https://img.shields.io/badge/Website-0969DA?style=flat-square&logo=googlechrome&logoColor=white
+[b-resume]:    https://img.shields.io/badge/Resume-4CAF50?style=flat-square&logo=adobeacrobatreader&logoColor=white
+[b-youtube]:   https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white
+[b-instagram]: https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white
+[b-email]:     https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white
+
+[b-python]:         https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
+[b-java]:           https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white
+[b-c]:              https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white
+[b-cpp]:            https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white
+[b-html]:           https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white
+[b-css]:            https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white
+[b-js]:             https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
+[b-react]:          https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black
+[b-nodejs]:         https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white
+[b-figma]:          https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white
+[b-mysql]:          https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white
+[b-git]:            https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white
+[b-github]:         https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white
+[b-vscode]:         https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white
+[b-jupyter]:        https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white
+[b-android-studio]: https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white
+[b-unity]:          https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white
+[b-matlab]:         https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white
+[b-arduino]:        https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white
